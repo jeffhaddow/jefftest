@@ -1,0 +1,10 @@
+gitsome provides direct integration with GitHub and GitHub Enterprise in a terminal. 
+It includes not only GitHub integrated commands that work with all shells 
+but also provides following functions.
+* Git and GitHub Autocompleter With Interactive Help
+* Fish-Style Auto-Suggestions
+* General Autocompleter
+* Python REPL
+* Command History
+* Customizable Highlighting
+
